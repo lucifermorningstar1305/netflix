@@ -4,7 +4,9 @@
 
 
 
-![](/home/adityam/Downloads/graph(1).png)
+![](/home/adityam/Downloads/graph(1).png?raw=true)
+
+
 
 
 
