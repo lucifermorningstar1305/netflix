@@ -4,7 +4,7 @@
 
 
 
-![](https://github.com/lucifermorningstar1305/graph_1.png?raw=true)
+![](https://github.com/lucifermorningstar1305/netflix/blob/main/graph_1.png?raw=true)
 
 
 
